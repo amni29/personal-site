@@ -30,6 +30,25 @@ li a:hover
 	background-color: #F6CD82;
 }
 
+h2
+{
+	font-family: cambria;
+	text-align: center;
+}
+
+h3
+{
+	font-family: cambria;
+	text-align: center;
+}
+
+p
+{
+	font-family: calibri;
+	text-align: center;
+	font-size: 17px;
+}
+
 .container
 {
 	width: 80%;
